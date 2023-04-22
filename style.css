@@ -10,7 +10,8 @@
 }
 
 *{
-    margin: 0px;
+    max-width: 1200px;
+    margin: 0 auto;
     padding: 0px;
 }
 
@@ -105,7 +106,8 @@ section#img02{
 div.video{
     background-color: rgb(167, 155, 155);
     margin-bottom: 30px;
-    margin: 0px -20px;
+    max-width: 1200px;
+    margin: 0 auto;
     padding: 30px;
     text-align: center;
 }
