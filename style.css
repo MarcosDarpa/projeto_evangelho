@@ -104,13 +104,14 @@ section#img02{
 }
 
 div.video{
-    background-color: rgb(167, 155, 155);
-    margin-bottom: 30px;
-    max-width: 1160px;
-    margin: 0 auto;
-    padding: 30px;
-    text-align: center;
-}
+        background-color: rgb(211, 211, 211);
+        margin: 0px;
+        padding: 20px;
+        padding-bottom: 10%;
+        position: relative;
+        text-align: center;
+    }
+
 
 footer{
     background-color: black;
